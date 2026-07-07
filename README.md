@@ -3,12 +3,12 @@
 This is my first full-stack project on the game of  Tic-Tac-Toe, where I used HTML, CSS, Javascript, Node.js, Express.js, MongoDB Atlas (Cloud Server) and Mongoose.
 
 ## Features in this game:
--Play against Computer.
--Player name input before the game starts.
--Play as many rounds as you want.
--Stores every Match history completed, in MongoDB Atlas, a Cloud server designated for the same.
--REST API for saving and retrieving all the macth history.
--Clean User Interface, easy-to-use, nothing much fancy.
+- Play against Computer.
+- Player name input before the game starts.
+- Play as many rounds as you want.
+- Stores every Match history completed, in MongoDB Atlas, a Cloud server designated for the same.
+- REST API for saving and retrieving all the macth history.
+- Clean User Interface, easy-to-use, nothing much fancy.
 
 ## Tech Stack I used:
 
