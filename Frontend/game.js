@@ -162,7 +162,7 @@ async function saveMatch(winner) {
         moves: moveCount
     };
     try {
-        const response = await fetch("https://tic-tac-toe-t88q.onrender.com/", {
+        const response = await fetch("https://tic-tac-toe-t88q.onrender.com/api/match", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
