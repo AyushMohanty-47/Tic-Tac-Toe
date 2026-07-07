@@ -17,7 +17,6 @@ app.use(express.json());
 
 app.use("/api/match", matchRoutes);
 
-// Default Route
 app.get("/", (req, res) => {
     res.send("Tic Tac Toe Backend is Running!");
 });

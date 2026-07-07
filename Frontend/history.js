@@ -3,7 +3,7 @@ const backBtn = document.getElementById("backBtn");
 
 async function loadHistory() {
     try {
-        const response = await fetch("http://localhost:5000/api/match");
+        const response = await fetch("https://tic-tac-toe-t88q.onrender.com/");
         const result = await response.json();
         const matches = result.data;
         historyTable.innerHTML = "";

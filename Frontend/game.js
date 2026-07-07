@@ -162,7 +162,7 @@ async function saveMatch(winner) {
         moves: moveCount
     };
     try {
-        const response = await fetch("http://localhost:5000/api/match", {
+        const response = await fetch("https://tic-tac-toe-t88q.onrender.com/", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
