@@ -41,7 +41,10 @@ This is my first full-stack project on the game of  Tic-Tac-Toe, where I used HT
 <img width="1267" height="986" alt="Screenshot (617)" src="https://github.com/user-attachments/assets/09894ff6-47a1-4f9c-98d4-51725e00a8cd" />
 <img width="1229" height="974" alt="Screenshot (620)" src="https://github.com/user-attachments/assets/b225b2b0-fc2e-4885-bae3-83c0614eb8bd" />
 
-## I will be deploying this project soon, Frontend via Vercel and Backend via Render.
+## I have also deployed this project, Frontend via Vercel and Backend via Render.
+
+- Deployed Frontend using Vercel, URL: https://tic-tac-toe-six-delta-47.vercel.app
+- Deployed Backend using Render, URL: https://tic-tac-toe-t88q.onrender.com
 
 Made By:
 - Ayush Mohanty
