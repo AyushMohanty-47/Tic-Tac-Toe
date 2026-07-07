@@ -1,6 +1,6 @@
-The Game | Tic-Tac-Toe
+## The Game | Tic-Tac-Toe
 
-This is my first full-stack project on the game of  Tic-Tac-Toe, where I used HTML, CSS, Javascript, Node.js, Express.js, MongoDB Atlas (Cloud Server) and Mongoose.
+# This is my first full-stack project on the game of  Tic-Tac-Toe, where I used HTML, CSS, Javascript, Node.js, Express.js, MongoDB Atlas (Cloud Server) and Mongoose.
 
 ## Features in this game:
 -Play against Computer.
